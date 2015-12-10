@@ -75,8 +75,8 @@ main>section{
     height: auto;
 }
 .special-menu img{
-    max-width: 200%;
-    margin-left: -50%;
+    max-width: 170%;
+    margin-left: -25%;
 }
 h2{
     color: rgb(0,0,0);
@@ -126,7 +126,7 @@ li{
 }
 .menu-container{
     display: flex;
-    background-color: grey;
+    background-color: black;
     width: 100%;
     overflow: hidden;
     position: relative;
